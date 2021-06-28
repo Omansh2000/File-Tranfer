@@ -3,3 +3,4 @@ Requirements :-
 1. jdk
 2. Swing (for GUI)
 
+![fTA1](https://user-images.githubusercontent.com/70911657/123655721-de158b00-d84c-11eb-90a6-614b4d636844.PNG)
