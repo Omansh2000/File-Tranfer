@@ -13,4 +13,6 @@ Requirements :-
 ![fta4](https://user-images.githubusercontent.com/70911657/123659611-824d0100-d850-11eb-93ac-430076113f8a.PNG)
 
 
+<b>All the uploaded files in the folder</b>
 
+![fta5](https://user-images.githubusercontent.com/70911657/123660483-554d1e00-d851-11eb-9a06-01d5b4185a19.png)
