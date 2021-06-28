@@ -8,5 +8,9 @@ Requirements :-
 
 ![fta2](https://user-images.githubusercontent.com/70911657/123656830-e3270a00-d84d-11eb-8817-d0535bc93f14.PNG)
 
-![fta3](https://user-images.githubusercontent.com/70911657/123657105-1ff30100-d84e-11eb-8080-9c7c609dec5b.PNG)
+![fta3](https://user-images.githubusercontent.com/70911657/123659454-53cf2600-d850-11eb-9f61-d726042d4129.PNG)
+
+![fta4](https://user-images.githubusercontent.com/70911657/123659611-824d0100-d850-11eb-93ac-430076113f8a.PNG)
+
+
 
